@@ -4,7 +4,7 @@
 
 ## Запуск программы
 
-###Требования: Ruby 2.5+
+___Требования: Ruby 2.5+___
 1. Скачиваете программу
 ```
 git clone https://github.com/effgenij/pick_a_card.git
